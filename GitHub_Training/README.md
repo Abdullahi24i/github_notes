@@ -88,7 +88,9 @@ to add an identity to then add your private key
 - to change the origin 
 ### git remote add origin <origin>
 - to add origin
-- 
+
+add this file
+
 
 
 ### What is GitHub?
